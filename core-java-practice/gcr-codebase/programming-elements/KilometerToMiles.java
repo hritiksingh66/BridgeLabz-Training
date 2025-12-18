@@ -9,8 +9,7 @@ public class KilometerToMiles {
     double dist_in_miles  = dist_in_km * 1.6 ;
 
 
-    // Print result as distance in miles
-
+    // Print result as distance in mile
     System.out.println("The distance" + dist_in_km + " km in miles is " + dist_in_miles +" miles");
   }
 }

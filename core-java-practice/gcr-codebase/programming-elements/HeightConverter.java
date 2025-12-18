@@ -13,13 +13,13 @@ public class HeightConverter {
 
         // Convert centimeters to inches
         // 1 inch = 2.54 cm
-        double totalInches = height / 2.54;
+        double total_inches = height / 2.54;
 
         // Calculate feet
-        int feet = (int) (totalInches / 12);
+        int feet = (int) (total_inches / 12);
 
         // Calculate remaining inches
-        double inches = totalInches % 12;
+        double inches = total_inches % 12;
 
         // Round inches to 2 decimal places
         inches = Math.round(inches * 100.0) / 100.0;
