@@ -25,7 +25,6 @@ public class NextPermut {
     for (int x : nums) {
       System.out.print(x + " ");
     }
-
   }
 
   // This method will generate the next permutation of array 
@@ -66,7 +65,7 @@ public class NextPermut {
 
   // This helper method will reverse one part of an array
   private void reverse(int[] nums, int start, int end) {
-    
+
     // swap elemets till start < end
     while (start <= end) {
       int temp = nums[start];
