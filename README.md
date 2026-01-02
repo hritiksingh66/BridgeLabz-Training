@@ -1,4 +1,4 @@
-# BridgeLabz Training – Core Java Practice
+# BridgeLabz Training – Core Java Practice , Object Oriented Programming System , Data Structures and Algorithm
 
 This repository documents my **BridgeLabz Java training journey**, focused on **Core Java fundamentals, logic building, and problem-solving** through structured practice.
 
@@ -12,6 +12,10 @@ The repository is organized to make navigation simple and to clearly reflect **w
 |------------|-------------|------|
 | `main` | Entry point & documentation | https://github.com/hritiksingh66/BridgeLabz-Training/tree/main |
 | `core-java-practice` | Complete Core Java practice codebase | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice |
+| `OOPs` | Complete OOPs concepts: classes & objects, encapsulation, inheritance, polymorphism, abstraction
+ | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs |
+| `DSA-practice` | Complete DSA concepts: arrays, strings, linked list, stack, queue, recursion, searching, sorting, hashing
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice|
 
 ---
 
@@ -33,8 +37,46 @@ The **GCR Codebase** focuses on strengthening Java fundamentals before moving to
 
 | Folder Name | Topics Covered | Link |
 |------------|---------------|------|
-| `Programming-Elements` | Variables, data types, operators, input/output, basic logic | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements |
+| `array-practice` | Declaration, traversal, searching, sorting, prefix sum, sliding window, two pointers | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/array-practice |
 | `Control-Flow` | If/Else, Switch, Loops (for, while, do-while), branching logic | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow |
+| `java-methods` | String methods, Array methods, Math methods, Wrapper class methods, Object class methods | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-methods |
+| `Programming-Elements` | Variables, data types, operators, input/output, basic logic | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements |
+| `string-extra` | length, charAt, substring, equals, compareTo, toUpperCase, toLowerCase, trim, replace, split
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string-extra |
+| `string` | length, charAt, substring, equals, compareTo, toUpperCase, toLowerCase, trim, replace, split
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string |
+
+---
+
+## 📂 OOPs Practice – Folder Overview
+
+The **OOPs-practice** branch is designed to cover complete Object-Oriented Programming concepts in Java, from fundamentals to practical problem-solving. The code is organized into three focused sections:
+
+| Folder Name | Purpose | Link |
+|------------|--------|------|
+| `gcr-codebase` | OOPs fundamentals (classes, objects, inheritance, polymorphism, abstraction, encapsulation) | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase |
+| `scenario-based` | Real-world OOPs use cases and logic-driven implementations | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/scenario-based-codebase |
+| `leetcode-based-problems` | Interview-focused OOPs + DSA problems for strong problem-solving skills | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/leet-code-codebase |
+
+---
+
+## 📘 GCR Codebase – Detailed Structure
+
+The **GCR Codebase** strengthens core Java and OOPs fundamentals, covering classes, objects, constructors, access modifiers, encapsulation, polymorphism, inheritance, design principles, and key Java keywords/operators.
+
+| Folder Name | Topics Covered | Link |
+|------------|---------------|------|
+| `Classes and Objects` | Classes, objects, and core OOPs fundamentals | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/class-and-objects |
+| `Constructor-AccessModidfiers` | Java constructors for object initialization, Instance Vs class variables, Access modifiers for controlling visibility and access levels.
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Constructors-AccessModifier|
+| `Encapsulation-Polymorphism` | Encapsulation for data hiding and security, and polymorphism for method overloading and overriding.
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Encapsulation-Polymorphism |
+| `Inheritance` | Inheritance for code reuse and establishing parent-child relationships between classes.
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Inheritance |
+| `Object-Oriented-Design` | Object-Oriented Design, class relationships, design principles, modularity, reusability, scalability, and maintainability
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Object-Oriented-Design |
+| `this-static-final-instaceOf-operator` | Covers `this` keyword for current object reference, `static` for class-level members, `final` for constants and immutability, and `instanceof` operator for type checking.
+| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/this-static-final|
 
 ---
 
