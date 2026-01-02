@@ -12,10 +12,8 @@ The repository is organized to make navigation simple and to clearly reflect **w
 |------------|-------------|------|
 | `main` | Entry point & documentation | https://github.com/hritiksingh66/BridgeLabz-Training/tree/main |
 | `core-java-practice` | Complete Core Java practice codebase | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice |
-| `OOPs` | Complete OOPs concepts: classes & objects, encapsulation, inheritance, polymorphism, abstraction
- | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs |
-| `DSA-practice` | Complete DSA concepts: arrays, strings, linked list, stack, queue, recursion, searching, sorting, hashing
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice|
+| `OOPs` | classes & objects, encapsulation, inheritance, polymorphism, abstraction | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs |
+| `DSA-practice` | Arrays, strings, linked list, stack, queue, searching, sorting, hashing| https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice|
 
 ---
 
@@ -41,10 +39,8 @@ The **GCR Codebase** focuses on strengthening Java fundamentals before moving to
 | `Control-Flow` | If/Else, Switch, Loops (for, while, do-while), branching logic | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow |
 | `java-methods` | String methods, Array methods, Math methods, Wrapper class methods, Object class methods | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-methods |
 | `Programming-Elements` | Variables, data types, operators, input/output, basic logic | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements |
-| `string-extra` | length, charAt, substring, equals, compareTo, toUpperCase, toLowerCase, trim, replace, split
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string-extra |
-| `string` | length, charAt, substring, equals, compareTo, toUpperCase, toLowerCase, trim, replace, split
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string |
+| `string-extra` | length, charAt, substring, equals, compareTo, toUpperCase | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string-extra |
+| `string` | length, charAt, substring, equals, compareTo, toUpperCase, toLowerCase etc | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string |
 
 ---
 
@@ -67,16 +63,11 @@ The **GCR Codebase** strengthens core Java and OOPs fundamentals, covering class
 | Folder Name | Topics Covered | Link |
 |------------|---------------|------|
 | `Classes and Objects` | Classes, objects, and core OOPs fundamentals | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/class-and-objects |
-| `Constructor-AccessModidfiers` | Java constructors for object initialization, Instance Vs class variables, Access modifiers for controlling visibility and access levels.
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Constructors-AccessModifier|
-| `Encapsulation-Polymorphism` | Encapsulation for data hiding and security, and polymorphism for method overloading and overriding.
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Encapsulation-Polymorphism |
-| `Inheritance` | Inheritance for code reuse and establishing parent-child relationships between classes.
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Inheritance |
-| `Object-Oriented-Design` | Object-Oriented Design, class relationships, design principles, modularity, reusability, scalability, and maintainability
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Object-Oriented-Design |
-| `this-static-final-instaceOf-operator` | Covers `this` keyword for current object reference, `static` for class-level members, `final` for constants and immutability, and `instanceof` operator for type checking.
-| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/this-static-final|
+| `Constructor-AccessModidfiers` | constructors,Instance Vs class variables, Access modifiers for visibility and access levels | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Constructors-AccessModifier|
+| `Encapsulation-Polymorphism` | Encapsulation for data hiding , method overloading and overriding | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Encapsulation-Polymorphism |
+| `Inheritance` | Inheritance for code reusability and parent-child relationships between classes | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Inheritance |
+| `Object-Oriented-Design` | Object-Oriented Design, design principles , reusability, scalability, and maintainability| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Object-Oriented-Design |
+| `this-static-final-instaceOf-operator` | `this` , `static` , `final` , `instanceof` operator| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/this-static-final|
 
 ---
 
