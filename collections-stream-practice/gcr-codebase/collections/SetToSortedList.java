@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class SetToSortedList {
+    
+    // Convert HashSet to sorted ArrayList
+    public static List<Integer> convertToSortedList(Set<Integer> set) {
+        List<Integer> list = new ArrayList<>(set);
+        Collections.sort(list);
+        return list;
+    }
+    
+    public static void main(String[] args) {
+        Set<Integer> hashSet = new HashSet<>(Arrays.asList(5, 3, 9, 1));
+        List<Integer> sortedList = convertToSortedList(hashSet);
+        
+        System.out.println("HashSet: " + hashSet);
+        System.out.println("Sorted List: " + sortedList);
+    }
+}
