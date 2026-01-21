@@ -1,4 +1,4 @@
-# BridgeLabz Training – Core Java Practice , Object Oriented Programming System , Data Structures and Algorithm
+# BridgeLabz Training – Core Java Practice , Object Oriented Programming System , Data Structures and Algorithm , Java Collections - Streams
 
 This repository documents my **BridgeLabz Java training journey**, focused on **Core Java fundamentals, logic building, and problem-solving** through structured practice.
 
@@ -14,6 +14,7 @@ The repository is organized to make navigation simple and to clearly reflect **w
 | `core-java-practice` | Complete Core Java practice codebase | https://github.com/hritiksingh66/BridgeLabz-Training/tree/core-java-practice |
 | `OOPs` | classes & objects, encapsulation, inheritance, polymorphism, abstraction | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs |
 | `DSA-practice` | Arrays, strings, linked list, stack, queue, searching, sorting, hashing| https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice|
+| `collections-stream-practice` | Collections and Stream API practice with core DSA operations | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice|
 
 ---
 
@@ -68,6 +69,57 @@ The **GCR Codebase** strengthens core Java and OOPs fundamentals, covering class
 | `Inheritance` | Inheritance for code reusability and parent-child relationships between classes | https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Inheritance |
 | `Object-Oriented-Design` | Object-Oriented Design, design principles , reusability, scalability, and maintainability| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/Object-Oriented-Design |
 | `this-static-final-instaceOf-operator` | `this` , `static` , `final` , `instanceof` operator| https://github.com/hritiksingh66/BridgeLabz-Training/tree/OOPs/OOPs/gcr-codebase/this-static-final|
+
+---
+## 📂 DSA Practice – Folder Overview
+
+The **DSA-practice** branch is designed to cover complete Data Structures and Algorithm concepts in Java, from fundamentals to practical problem-solving. The code is organized into three focused sections:
+
+| Folder Name | Purpose | Link |
+|------------|--------|------|
+| `gcr-codebase` | Core DSA concepts: arrays, strings, recursion, linked lists, stacks, queues, hashing, and complexity | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/gcr-codebase |
+| `scenario-based` | Real-world and logic-driven DSA problems focusing on edge cases, optimization, and algorithmic thinking | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/scenario-codebase |
+| `leetcode-based-problems` | Interview-focused LeetCode DSA problems: arrays, trees, graphs, DP, greedy, and bit manipulation | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/leet-code-codebase |
+
+---
+
+## 📘 GCR Codebase – Detailed Structure
+
+The **GCR Codebase** focuses on building a strong foundation in Java, OOPs, and DSA basics, combining core object-oriented principles with essential data structures and algorithmic thinking used in real-world and interview scenarios.
+
+| Folder Name | Topics Covered | Link |
+|------------|---------------|------|
+| `Linear-Binary-Searching` | Linear and binary search implementations with complexity analysis | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/gcr-codebase/Linear-Binary-Search |
+| `LinkedList` | Linked list implementations and core operations| https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/gcr-codebase/LinkedList|
+| `RuntimeAnalysis` | Time and space complexity evaluation of algorithms | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/gcr-codebase/RuntimeAnalysis |
+| `Sorting-Algorithm` | Standard sorting algorithms with performance comparison | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/gcr-codebase/Sorting-Algorithm |
+| `Stack-Queue-Hashmap` | Stack, queue, and hashmap implementations with key operations | https://github.com/hritiksingh66/BridgeLabz-Training/tree/DSA-practice/dsa-practice/gcr-codebase/stack-queue-hashmap |
+
+---
+## 📂 Collections Practice – Folder Overview
+
+The **collections-streams-practice** branch focuses on practicing core Data Structures and Algorithms in Java using the Collections Framework and Stream API, covering fundamentals to practical, problem-solving implementations.:
+
+| Folder Name | Purpose | Link |
+|------------|--------|------|
+| `gcr-codebase` | Core DSA implementations using Java Collections Framework (List, Set, Map)| https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase |
+| `scenario-based` | DSA problem-solving using Java Stream API with filtering, mapping, and aggregation | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/scenario-codebase |
+| `leetcode-based-problems` | Interview-oriented DSA problems solved using collections and optimized logic | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/leet-code-codebase |
+
+---
+
+## 📘 GCR Codebase – Detailed Structure
+
+The **GCR Codebase** focuses on mastering DSA problem-solving in Java using the Collections Framework and Stream API, emphasizing efficient data handling, functional-style operations, and interview-oriented solutions.
+
+| Folder Name | Topics Covered | Link |
+|------------|---------------|------|
+| `Collections` | Java Collections Framework (List, Set, Map), searching, sorting, and basic DSA operations | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase/collections |
+| `Streams` | Stream API operations including filter, map, reduce, sorting, and aggregation on collections | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase/streams|
+| `Generics` | Generic classes, methods, type safety, bounded types, and reusable data structures | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase/generics |
+| `Exceptions` | Exception handling, custom exceptions, try-catch-finally, and robust error management | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase/exceptions |
+| `Regex-and-JUnits` | Regular expressions, pattern matching, and unit testing with JUnit | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase/regex-and-junits |
+| `Reflections-Annotations` | Java reflection API, annotations, and runtime metadata processing | https://github.com/hritiksingh66/BridgeLabz-Training/tree/collections-stream-practice/collections-stream-practice/gcr-codebase/reflections-annotations |
 
 ---
 
