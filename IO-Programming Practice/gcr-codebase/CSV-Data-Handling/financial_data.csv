@@ -1,0 +1,6 @@
+account_id,account_holder,balance,account_type,ssn
+ACC001,John Smith,15000.50,Savings,123-45-6789
+ACC002,Jane Doe,25000.75,Checking,987-65-4321
+ACC003,Mike Johnson,8500.25,Savings,456-78-9123
+ACC004,Sarah Wilson,12000.00,Checking,789-12-3456
+ACC005,David Brown,30000.80,Investment,321-54-9876

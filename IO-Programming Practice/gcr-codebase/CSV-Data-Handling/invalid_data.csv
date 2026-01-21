@@ -1,0 +1,11 @@
+id,name,age,email,phone
+1,John Doe,25,john.doe@email.com,123-456-7890
+2,Jane Smith,-5,invalid-email,phone123
+3,Mike Johnson,30,mike@company.com,555-0123
+4,,22,sarah@email.com,555-0124
+5,David Brown,abc,david@email.com,555-0125
+6,Lisa Davis,28,lisa.davis@email.com,
+7,Tom Miller,35,tom@email.com,555-0127
+8,Anna Garcia,19,anna.garcia,555-0128
+9,Chris Lee,40,chris.lee@email.com,555-0129
+10,Emma Taylor,26,emma@email.com,555-0130

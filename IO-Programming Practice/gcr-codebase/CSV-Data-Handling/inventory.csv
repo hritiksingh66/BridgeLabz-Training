@@ -1,0 +1,16 @@
+item_id,item_name,category,quantity,location,last_updated
+I001,Widget A,Components,500,Warehouse A,2024-01-01
+I002,Widget B,Components,300,Warehouse B,2024-01-02
+I003,Gadget X,Electronics,150,Warehouse A,2024-01-03
+I004,Gadget Y,Electronics,200,Warehouse C,2024-01-04
+I005,Tool Alpha,Tools,75,Warehouse B,2024-01-05
+I006,Tool Beta,Tools,100,Warehouse A,2024-01-06
+I007,Part 123,Parts,1000,Warehouse C,2024-01-07
+I008,Part 456,Parts,800,Warehouse B,2024-01-08
+I009,Material X,Materials,250,Warehouse A,2024-01-09
+I010,Material Y,Materials,300,Warehouse C,2024-01-10
+I011,Component A,Components,400,Warehouse B,2024-01-11
+I012,Component B,Components,350,Warehouse A,2024-01-12
+I013,Device Alpha,Electronics,120,Warehouse C,2024-01-13
+I014,Device Beta,Electronics,180,Warehouse B,2024-01-14
+I015,Supply X,Supplies,600,Warehouse A,2024-01-15
