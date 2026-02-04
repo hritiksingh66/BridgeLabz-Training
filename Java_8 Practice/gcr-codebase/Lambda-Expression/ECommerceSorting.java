@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.function.Function;
 
 class Product {
     private String name;
